@@ -55,4 +55,4 @@ def get_config_names():
 from minerva_analysis.server.routes import page_routes, data_routes, import_routes
 from minerva_analysis.server.models import data_model, database_model
 
-webbrowser.open_new('http://localhost:8000/')
+webbrowser.open_new('http://localhost:8800/')
